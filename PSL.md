@@ -210,10 +210,19 @@ This section constitutes, to the extent allowed by applicable law, the entire wa
 if any portion of this section is held to be unenforceable,
 the software shall have no warranty to the extent allowed under law.
 
-## Non-severability
+## Non-severability and legal limitations
 
 If any portion of this license is held to be unenforceable, the whole license shall be invalid,
 and no one shall receive any rights under this software.
+
+If you are not legally able to pay royalties to any contributor under this license,
+including because a contributor refuses or is unable to comply with laws in your country
+that restrict their ability to do business there,
+this whole license shall be invalid in your case, and you receive no rights under it.
+
+If the laws of your country do not permit copyrights or other exclusive rights granted under this license
+to be waved,
+this whole license shall be invalid in your case, and you receive no rights under it.
 
 ## Applying to your code
 
